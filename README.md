@@ -10,6 +10,7 @@ Resources
 * http://lorempixel.com/ for images
 * https://www.pexels.com
 * https://www.heropatterns.com
+* https://scrollrevealjs.org/
 
 Extrated from
 --
